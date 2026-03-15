@@ -101,7 +101,7 @@ This dashboard answers questions like:
 
 ## Live Power BI Report
 **Open the interactive report here:**  
-[Demo Report](https://app.powerbi.com/view?r=eyJrIjoiNDBjYThkZmQtMDBjMC00MDQ4LWFkNjktYTM3ZjEzNDA2N2ViIiwidCI6Ijk0NDVhOTgzLTgyMjMtNDg3My1iYjhkLWM3NzRhODBkNTYxNSJ9)
+[Demo Report](https://tinyurl.com/campaignsreport)
 
 > Note: GitHub README pages typically do **not** render iframes.
 
