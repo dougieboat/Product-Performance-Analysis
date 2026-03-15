@@ -28,7 +28,7 @@ The report is designed for quick executive visibility (overview KPIs) and deeper
 - [Live Power BI Report](#live-power-bi-report)
 - [Analysis & Insights](#analysis--insights)
 - [Recommendations](#recommendations)
-- [Contact](#📬-contact)
+- [Contact](#contact)
 
 ---
 
@@ -246,7 +246,7 @@ Below is the regional distribution dataset used for the map visual (regional tot
 
 ---
 
-## 📬 Contact
+## Contact
 - **Phone:** +233 54 583 2352  
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/douglasboateng/)  
 - **Email:** [Click here](mailto:dougieboat@gmail.com)
