@@ -28,7 +28,7 @@ The report is designed for quick executive visibility (overview KPIs) and deeper
 - [Live Power BI Report](#live-power-bi-report)
 - [Analysis & Insights](#analysis--insights)
 - [Recommendations](#recommendations)
-- [Contact](#contact)
+- [Contact](#📬-contact)
 
 ---
 
