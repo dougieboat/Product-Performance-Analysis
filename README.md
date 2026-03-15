@@ -1,5 +1,5 @@
 # Product Performance Analysis Report (MVP)
-![Product Performance Analysis Landing](images/01-campaigns-overview.png)
+![Product Performance Analysis Landing](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/images/01-campaigns-menu.png)
 
 > 🚧 **MVP (Under Development):** This dashboard is a working first version and is still evolving.  
 > Expect ongoing improvements to the data model, measures, drilldowns, and UI polish.
@@ -67,17 +67,17 @@ This dashboard answers questions like:
 ## Report Pages
 
 ### 1) Campaigns Performance Overview
-**Purpose:** Executive snapshot of Campaigns product performance (high-level KPIs + trends).
+> **Purpose:** Executive snapshot of Campaigns product performance (high-level KPIs + trends).
 - Total Revenue, Total Entries, Total Clients, Total Campaigns
 - Revenue split by **Campaign Type**
 - Monthly revenue trend (Month/Quarter toggle)
 
-![Campaigns Performance Overview](images/01-campaigns-overview.png)
+![Campaigns Performance Overview](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/images/02-campaigns-overview.png)
 
 ---
 
 ### 2) Entry & Participation Analytics — Performance
-**Purpose:** Participation funnel + reward operations + activity patterns.
+> **Purpose:** Participation funnel + reward operations + activity patterns.
 - Rewards overview (Total / Disbursed / Pending)
 - Entries overview (Max Daily / Avg Daily)
 - Validity + win performance (Validity Rate, Win Rate, Unique Winners)
@@ -85,17 +85,17 @@ This dashboard answers questions like:
 - Valid entries & rewards by campaign
 - Peak traffic analysis (entries by hour)
 
-![Entry & Participation Analytics — Performance](images/02-entry-performance.png)
+![Entry & Participation Analytics — Performance](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/images/03-campaigns-analytics_performance.png)
 
 ---
 
 ### 3) Entry & Participation Analytics — Demographics
-**Purpose:** Who/where participants are (and what fields were captured).
+> **Purpose:** Who/where participants are (and what fields were captured).
 - Regional entries distribution (Ghana shapemap)
 - Super participant leaderboard (high-activity participants)
 - Entries per gender (including “No Gender Data” where gender wasn’t collected)
 
-![Entry & Participation Analytics — Demographics](images/03-demographics.png)
+![Entry & Participation Analytics — Demographics](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/images/04-campaigns-analytics_demographics.png)
 
 ---
 
@@ -133,7 +133,7 @@ Invalid entries are mainly driven by **two major causes**:
 1. **Wrong code submission** — customers enter an incorrect/invalid code.
 2. **Agent discretion** — a client’s agent can mark an entry as invalid based on internal rules or review outcomes.
 
-**Insight:** Reducing wrong-code submissions is a product/UX opportunity, while agent-driven invalidation needs clear governance and auditability.
+> **Insight:** Reducing wrong-code submissions is a product/UX opportunity, while agent-driven invalidation needs clear governance and auditability.
 
 ---
 
@@ -143,7 +143,7 @@ Invalid entries are mainly driven by **two major causes**:
 | Sure Win (Single) | GH¢300K | **~63.8%** |
 | Basic Random Win | GH¢170K | ~36.2% |
 
-**Insight:** Revenue is currently weighted toward **Sure Win (Single)**, contributing nearly **two-thirds** of total revenue.
+> **Insight:** Revenue is currently weighted toward **Sure Win (Single)**, contributing nearly **two-thirds** of total revenue.
 
 ---
 
@@ -154,7 +154,7 @@ Invalid entries are mainly driven by **two major causes**:
 
 **What “Pending” means:** Some rewards remain pending because **clients did not load/fund their payout accounts**, so payouts could not be completed to winners at the time.
 
-**Insight:** Pending rewards are not just an ops backlog—this is also a dependency risk tied to client funding readiness.
+> **Insight:** Pending rewards are not just an ops backlog—this is also a dependency risk tied to client funding readiness.
 
 ---
 
@@ -163,7 +163,7 @@ From the “Valid Entries and Rewards per Campaign” visual:
 - **Vivo Always-On 2025:** **74K** valid entries (**~70%** of valid entries)
 - **Indomie Hero Pack Promo 2025:** **31K** valid entries (**~30%** of valid entries) and **~GH¢71K** total rewards (rounded on the chart)
 
-**Insight:** One campaign drives most **engagement**, while another carries most of the **reward value**—useful for comparing campaign mechanics and ROI.
+> **Insight:** One campaign drives most **engagement**, while another carries most of the **reward value**—useful for comparing campaign mechanics and ROI.
 
 ---
 
@@ -174,7 +174,7 @@ From the “Valid Entries and Rewards per Campaign” visual:
 - Sustained activity through the day
 - Highest activity appears in the **late afternoon / early evening**, then declines after **~20:00**
 
-**Insight:** Schedule push messages and operational monitoring around peak engagement hours.
+> **Insight:** Schedule push messages and operational monitoring around peak engagement hours.
 
 ---
 
@@ -200,10 +200,10 @@ Below is the regional distribution dataset used for the map visual (regional tot
 | Oti        |              99 |      0.12 | Nkwanta               |                     8 |
 | Upper West |              69 |      0.08 | Wa                    |                     4 |
 
-**Insights:**
-- **Accra (45.63%)** and **Ashanti (25.41%)** together account for **~71%** of captured regional entries.
-- The top 4 regions (**Accra, Ashanti, Central, Western**) contribute **~88.8%** of captured regional entries.
-- This indicates strong regional concentration—useful for targeted marketing and operational planning.
+> **Insights:**
+> - **Accra (45.63%)** and **Ashanti (25.41%)** together account for **~71%** of captured regional entries.
+> - The top 4 regions (**Accra, Ashanti, Central, Western**) contribute **~88.8%** of captured regional entries.
+> - This indicates strong regional concentration—useful for targeted marketing and operational planning.
 
 #### Entries Per Gender
 | Gender | Entries | Share |
@@ -214,7 +214,7 @@ Below is the regional distribution dataset used for the map visual (regional tot
 
 **What “No Gender Data” means:** Not all campaigns collect gender, so “No Gender Data” often reflects **gender not captured by campaign design**, not necessarily a data quality issue.
 
-**Insight:** Where gender is collected, it can support segmentation; where it isn’t, reporting should treat it as “Not Collected” rather than “Missing”.
+> **Insight:** Where gender is collected, it can support segmentation; where it isn’t, reporting should treat it as “Not Collected” rather than “Missing”.
 
 ---
 
