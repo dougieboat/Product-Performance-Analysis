@@ -101,9 +101,7 @@ This dashboard answers questions like:
 
 ## Demo Power BI Report
 **Open the demo interactive report here:**  
-[Demo Report](https://drive.google.com/file/d/1rdt_0-8ikZ2XxCChJcVF5SRZdz9QM5hy/view?usp=sharing)
-
-> Note: GitHub README pages typically do **not** render iframes.
+> [Demo Report](https://drive.google.com/file/d/1rdt_0-8ikZ2XxCChJcVF5SRZdz9QM5hy/view?usp=sharing)
 
 ---
 
