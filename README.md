@@ -1,5 +1,5 @@
 # Product Performance Analysis Report (MVP)
-![Product Performance Analysis Landing](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/assets/01-campaigns-menu.png)
+![Product Performance Analysis Landing](https://github.com/dougieboat/Product-Performance-Analysis/blob/0dea5544469000068b4fedec0237e54d585d75de/assets/01-campaigns-menu.png)
 
 > 🚧 **MVP (Under Development):** This dashboard is a working first version and is still evolving.  
 > Expect ongoing improvements to the data model, measures, drilldowns, and UI polish.
@@ -72,7 +72,7 @@ This dashboard answers questions like:
 - Revenue split by **Campaign Type**
 - Monthly revenue trend (Month/Quarter toggle)
 
-![Campaigns Performance Overview](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/assets/02-campaigns-overview.png)
+![Campaigns Performance Overview](https://github.com/dougieboat/Product-Performance-Analysis/blob/0dea5544469000068b4fedec0237e54d585d75de/assets/02-campaigns-overview.png)
 
 ---
 
@@ -85,7 +85,7 @@ This dashboard answers questions like:
 - Valid entries & rewards by campaign
 - Peak traffic analysis (entries by hour)
 
-![Entry & Participation Analytics — Performance](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/assets/03-campaigns-analytics_performance.png)
+![Entry & Participation Analytics — Performance](https://github.com/dougieboat/Product-Performance-Analysis/blob/0dea5544469000068b4fedec0237e54d585d75de/assets/03-campaigns-analytics_performance.png)
 
 ---
 
@@ -95,13 +95,13 @@ This dashboard answers questions like:
 - Super participant leaderboard (high-activity participants)
 - Entries per gender (including “No Gender Data” where gender wasn’t collected)
 
-![Entry & Participation Analytics — Demographics](https://github.com/dougieboat/Product-Performance-Analysis/blob/7da2f43747ff9c8c5075cd79ab5e0b3c48bdd11d/assets/04-campaigns-analytics_demographics.png)
+![Entry & Participation Analytics — Demographics](https://github.com/dougieboat/Product-Performance-Analysis/blob/0dea5544469000068b4fedec0237e54d585d75de/assets/04-campaigns-analytics_demographics.png)
 
 ---
 
 ## Demo Power BI Report
 **Open the demo interactive report here:**  
-[Demo Report](https://tinyurl.com/campaignsreport)
+[Demo Report](https://drive.google.com/file/d/1rdt_0-8ikZ2XxCChJcVF5SRZdz9QM5hy/view?usp=sharing)
 
 > Note: GitHub README pages typically do **not** render iframes.
 
